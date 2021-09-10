@@ -27,17 +27,10 @@ To execute the Project:
 
         cd ~/Robotics_Project2/
         source devel/setup.bash
-        roslaunch my_robot mapping.launch
+        roslaunch ball_chaser ball_chaser.launch
 
 
-    3.3. Third Terminal:
-
-        cd ~/Robotics_Project2/	
-        source devel/setup.bash
-        roslaunch my_robot mapping.launch
- 
-
-4. Move the white ball in Gazebo in front of the robot so that it can follow it.
+4. In Gazebo, move the white ball in front of the robot so that it can follow it.
 
 	
 5. To close everything:
