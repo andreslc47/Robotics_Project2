@@ -1,0 +1,2 @@
+ball_chaser:my_robot
+-DCATKIN_DEVEL_PREFIX=/home/robond/UDACITY_PROJECTS/Robotics_Project2/devel -DCMAKE_INSTALL_PREFIX=/home/robond/UDACITY_PROJECTS/Robotics_Project2/install -G Unix Makefiles
