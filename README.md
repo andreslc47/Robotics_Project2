@@ -15,7 +15,7 @@ To execute the Project:
         ./compile_all
  
 	
-3. Open 3 terminals.
+3. Open 2 terminals.
 
     3.1. First Terminal: 
 
