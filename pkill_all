@@ -1,0 +1,5 @@
+#!/bin/bash
+pkill -f rviz
+pkill -f ros
+pkill -f gaz
+
