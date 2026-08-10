@@ -37,3 +37,6 @@ To execute the Project:
 
         cd ~/Robotics_Project2/
         ./pkill_all
+
+
+<img width="1918" height="1077" alt="Project2_robot" src="https://github.com/user-attachments/assets/cea44d6a-00a4-4c78-9dfe-98baac34ccec" />
